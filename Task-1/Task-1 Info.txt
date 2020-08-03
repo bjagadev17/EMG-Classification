@@ -1,0 +1,9 @@
+->Explore the data
+->Prepare the data for classification
+->Explore differebt models by using leveraging scikit-learn library
+->Evaluate each model using Accuracy,Precision,Recall,Confusion-Matrix,ROC-Curve
+->Find out the Promising models by fine-tuning the hyperparameters
+
+
+
+Milestone->Report the result of Logistic Regression,SVM AND SGD Classifier.

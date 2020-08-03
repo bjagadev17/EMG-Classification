@@ -1,0 +1,12 @@
+Step 1: Train the following classifiers (Fine tune each one individually and find out the best model for each classifier)
+• Logistic-Regression (LR)
+• KNN
+• SVM
+• Decision Tree
+• Random Forrest
+• Extra Trees
+Step 2: Combine the aforementioned classifiers using different Ensemble methods (explore them in the following sequential order one by one):
+• Voting
+• Bagging
+• Boosting
+• Stacking
